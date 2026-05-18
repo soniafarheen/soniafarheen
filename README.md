@@ -9,7 +9,7 @@
 - 🔐 Currently learning and exploring **Cyber Security Analysis**
 - 🎓 Strong academic foundation in **Java, C++, Databases, and Computer Networking**
 - 🎯 Working towards becoming a **Professional Cyber Security Analyst**
-- 📬 Reach me at: **your-email@gmail.com**
+- 📬 Reach me at: **soniafarheen786@gmail.com**
 
 ---
 
